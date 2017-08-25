@@ -1,0 +1,19 @@
+{
+  "name": "hotline",
+  "version": "1.0.0",
+  "description": "quick meet app",
+  "main": "core.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanbarber/Hotline.git"
+  },
+  "author": "nbarber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathanbarber/Hotline/issues"
+  },
+  "homepage": "https://github.com/nathanbarber/Hotline#readme"
+}
