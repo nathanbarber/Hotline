@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/nathanbarber/Hotline/issues"
   },
-  "homepage": "https://github.com/nathanbarber/Hotline#readme"
+  "homepage": "https://github.com/nathanbarber/Hotline#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "querystring": "^0.2.0",
+    "request": "^2.81.0",
+    "serve-favicon": "^2.4.3",
+    "socket.io": "^2.0.3"
+  }
 }
